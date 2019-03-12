@@ -1,0 +1,9 @@
+zoznamKontaktov
+6
+Meno; Telefon; Mobil; Email
+jozo; 051/775548; 0949333444; fgd@dfwe.sk
+janko; 551515; 0949654789; sfdsg.dfd.sd
+jozo; ; 0956879852; 
+fero; ; 0987852456; 
+jozo; ; 54848646; khbjhbjhb
+jozo; ; ; 

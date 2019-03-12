@@ -1,0 +1,4 @@
+Jano,Kano,19
+Jaro,Kano,39
+Palo,Onak,29
+Juro,Onak,49
